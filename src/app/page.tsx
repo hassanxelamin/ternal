@@ -12,19 +12,12 @@ export default function Home() {
         <div className="px-[5rem] mx-auto flex flex-col sm:flex-row justify-between items-center gap-4">
           <a 
             href="https://twitter.com/ternalxyz" 
-            className="text-gray-600 hover:text-gray-900 transition-colors"
+            className="text-blue-500 hover:text-blue-700 transition-colors"
             target="_blank"
             rel="noopener noreferrer"
           >
             @ternalxyz
           </a>
-          
-          <Link
-            href="/privacy" 
-            className="text-blue-500 hover:text-blue-700 transition-colors"
-          >
-            privacy policy
-          </Link>
           
           <Link
             href="/contact" 
