@@ -20,7 +20,7 @@ export default function Home() {
           </a>
           
           <Link
-            href="/contact" 
+            href="mailto:contact@ternalxyz.com"
             className="text-gray-600 hover:text-gray-900 transition-colors"
           >
             contact
